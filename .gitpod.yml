@@ -1,0 +1,3 @@
+tasks:
+  - init: Setup Gitpod
+    command: bash .gitpod/setup_gitpod.sh
