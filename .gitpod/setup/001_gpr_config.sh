@@ -1,6 +1,4 @@
-git submodule update --init --recursive
-
-
+echo \>\>Setup GPR config
 if [ ! -d ~/.gradle/ ]; then
     mkdir ~/.gradle/
 fi
